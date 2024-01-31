@@ -1,0 +1,22 @@
+# 2024/01/31
+# massimiliano.canosi
+
+
+n= int(input())
+
+lst_otp = []
+
+for i in range(1,n+1):
+
+    g = input()
+
+    lst = [int(x) for x in input().split(" ")]
+
+    for x in lst:
+        if lst.count(x) == 1:
+            odd_out = x 
+    
+    lst_otp.append(f"Case #{i}: {odd_out}")
+
+for i in lst_otp:
+    print(f"{i}")
