@@ -11,7 +11,7 @@ When the slats are bundled together, they conform to the shape of the slat which
 Ken doesn’t want an uncomfortable grip, so he will put only an old slat in a new position if it is of the same or opposite type. 
 There are four possible slats “top” (T), “bottom” (B), “left” (L), and “right” (R). When looking at a sword head on, these slats form the following configuration:
 
-<img src="https://open.kattis.com/problems/brokenswords/file/statement/en/img-0002.jpg" width="150" height="280">
+<img src="https://open.kattis.com/problems/brokenswords/file/statement/en/img-0002.jpg" width="200" height="250">
 
 As an example, Ken will only replace a top slat with a top or bottom slat.
 After collecting broken swords for quite a while, Ken has decided to build as many swords as possible. 
